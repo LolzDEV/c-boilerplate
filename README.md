@@ -1,2 +1,4 @@
 # LolzDEV's C boilerplate
-Feel free to use this
+
+## Usage
+You can just change the variables in the `Makefile` and you are ready to use this in your project
